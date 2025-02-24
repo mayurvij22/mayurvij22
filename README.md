@@ -26,16 +26,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurvij22&layout=compact&theme=radical)
 
-## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mayurvij22)
-- [Twitter](https://twitter.com/mayurvij22)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of the blog post](URL)
-- [Title of the blog post](URL)
-<!-- BLOG-POST-LIST:END -->
 
 Feel free to explore my repositories and reach out if you’d like to collaborate on any projects!
