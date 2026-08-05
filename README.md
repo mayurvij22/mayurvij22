@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 - 🌱 I’m constantly learning and exploring new technologies.
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [mayurvij22@example.com](mailto:mayurvij22@example.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## 🛠️ Technologies & Tools
